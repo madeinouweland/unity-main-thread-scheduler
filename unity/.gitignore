@@ -1,0 +1,50 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Bin/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+[Aa]pp/
+[Bb]uild/
+[Bb]uilds/
+UWP/
+Plugins/
+project.json
+project.lock.json
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.csproj
+*.pidb
+*.suo
+/*.sln
+*.sln
+*.user
+*.unityproj
+*.ipch
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.idb
+*.opendb
+#WSATestCertificate.pfx
+#WSATestCertificate.pfx.meta
+
+# ===================================== #
+# Maya generated #
+# ===================================== #
+workspace.mel
+.MayaTempCaptureComponent/
+tmp/
+.mayaSwatches/
